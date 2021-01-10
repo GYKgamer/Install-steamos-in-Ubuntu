@@ -1,3 +1,6 @@
+Before we begin the installation this project was originally made by ShadowApex https://github.com/ShadowApex/steamos-ubuntu  but his code was all mixed up so i fixed them. Anyways credit to ShadowApex
+
+
 # SteamOS Ubuntu
 
 ![SteamOS Ubuntu](image.png)
